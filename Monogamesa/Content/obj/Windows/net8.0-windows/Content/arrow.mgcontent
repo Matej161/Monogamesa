@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Hráč/RiderProjects/Monogamesa/Monogamesa/Content/arrow.png</SourceFile>
-  <SourceTime>2024-10-19T22:52:57.2034977+02:00</SourceTime>
-  <DestFile>C:/Users/Hráč/RiderProjects/Monogamesa/Monogamesa/Content/bin/Windows/Content/arrow.xnb</DestFile>
-  <DestTime>2024-10-19T22:53:40.3589645+02:00</DestTime>
+  <SourceFile>C:/Users/42060/Desktop/Monogamesa/Monogamesa/Content/arrow.png</SourceFile>
+  <SourceTime>2024-10-22T19:50:17.1662625+02:00</SourceTime>
+  <DestFile>C:/Users/42060/Desktop/Monogamesa/Monogamesa/Content/bin/Windows/Content/arrow.xnb</DestFile>
+  <DestTime>2024-10-22T19:57:53.3035213+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
