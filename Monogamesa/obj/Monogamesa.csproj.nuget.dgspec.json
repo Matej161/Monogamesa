@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\42060\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj": {}
+    "C:\\Users\\Hráč\\OneDrive\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\42060\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj": {
+    "C:\\Users\\Hráč\\OneDrive\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\42060\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj",
+        "projectUniqueName": "C:\\Users\\Hráč\\OneDrive\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj",
         "projectName": "Monogamesa",
-        "projectPath": "C:\\Users\\42060\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj",
-        "packagesPath": "C:\\Users\\42060\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\42060\\Desktop\\Monogamesa\\Monogamesa\\obj\\",
+        "projectPath": "C:\\Users\\Hráč\\OneDrive\\Desktop\\Monogamesa\\Monogamesa\\Monogamesa.csproj",
+        "packagesPath": "C:\\Users\\Hráč\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hráč\\OneDrive\\Desktop\\Monogamesa\\Monogamesa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\42060\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hráč\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
