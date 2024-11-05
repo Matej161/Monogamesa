@@ -22,8 +22,7 @@ public class Bullet
         if (IsActive)
         {
             Position += Direction * Speed;
-
-            // Deactivate the bullet if it goes off-screen
+            
             if (Position.X < 0 || Position.X > 800 || Position.Y < 0 || Position.Y > 600)
             {
                 IsActive = false;

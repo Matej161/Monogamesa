@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Hráč/OneDrive/Desktop/Monogamesa/Monogamesa/Content/tank.png</SourceFile>
-  <SourceTime>2024-10-29T21:20:57.6274275+01:00</SourceTime>
-  <DestFile>C:/Users/Hráč/OneDrive/Desktop/Monogamesa/Monogamesa/Content/bin/Windows/Content/tank.xnb</DestFile>
-  <DestTime>2024-10-29T21:34:17.455182+01:00</DestTime>
+  <SourceFile>C:/Users/42060/Desktop/Monogamesa/Monogamesa/Content/tank.png</SourceFile>
+  <SourceTime>2024-11-05T20:12:05.7353545+01:00</SourceTime>
+  <DestFile>C:/Users/42060/Desktop/Monogamesa/Monogamesa/Content/bin/Windows/Content/tank.xnb</DestFile>
+  <DestTime>2024-11-05T20:13:48.4271588+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

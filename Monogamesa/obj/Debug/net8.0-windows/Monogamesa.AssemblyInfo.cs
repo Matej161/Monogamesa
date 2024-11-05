@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monogamesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741d3e8876952b485dfa34e52f261456fea9f93d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46ad35d404d18b53c2a30a2ad81d60580df261c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monogamesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monogamesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
